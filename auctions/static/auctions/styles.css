@@ -1,0 +1,53 @@
+/* Logo */
+.logo-img {
+    max-height: 50px;
+    width: auto;
+    height: auto;
+}
+
+/* General layout */
+body {
+    background-color: #f8f9fa; /* Light gray */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+/* Headings */
+h1, h2, h3 {
+    font-weight: 600;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* Listings section */
+.card {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+/* Navbar customization */
+.navbar {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+/* Buttons */
+.btn {
+    border-radius: 6px;
+}
+
+/* Alerts */
+.alert {
+    margin-top: 20px;
+}
+
+/* Footer (optional) */
+footer {
+    margin-top: 60px;
+    padding: 20px;
+    background-color: #e9ecef;
+    text-align: center;
+    font-size: 14px;
+    color: #666;
+}
+
